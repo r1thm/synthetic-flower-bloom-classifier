@@ -13,6 +13,7 @@ numpy
 scikit-learn
 matplotlib
 ```
+Note: You may also run this project on Google Colab through the .ipynb file in this repository, in which case, no bash scripting is required.
 
 # Install Dependencies
 ```bash
